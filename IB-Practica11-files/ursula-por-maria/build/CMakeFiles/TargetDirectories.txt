@@ -1,0 +1,3 @@
+/home/usuario/IB/IB-Practica11-files/ursula-por-maria/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/IB/IB-Practica11-files/ursula-por-maria/build/CMakeFiles/edit_cache.dir
+/home/usuario/IB/IB-Practica11-files/ursula-por-maria/build/CMakeFiles/sustituir.dir

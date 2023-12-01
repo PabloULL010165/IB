@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/read_DFA.dir/read_DFA.cc.o  -o read_DFA 

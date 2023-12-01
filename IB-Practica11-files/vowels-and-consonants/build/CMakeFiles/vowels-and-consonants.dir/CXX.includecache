@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/IB/IB-Practica11-files/vowels-and-consonants/vowels-and-consonants.cc
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+

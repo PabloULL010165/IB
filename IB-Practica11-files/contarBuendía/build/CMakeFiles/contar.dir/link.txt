@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/contar.dir/contarBuendía.cc.o  -o contar 

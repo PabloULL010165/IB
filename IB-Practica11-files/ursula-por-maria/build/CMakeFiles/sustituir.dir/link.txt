@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sustituir.dir/ursula-por-maría.cc.o  -o sustituir 
