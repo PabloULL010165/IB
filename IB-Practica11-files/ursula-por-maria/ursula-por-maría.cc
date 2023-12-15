@@ -33,10 +33,10 @@ void replaceUrsulaWithMaria(const string& inputFile, const string& outputFile) {
     string line;
     while (getline(input, line)) {
         
-        size_t found = line.find("Ursula");
+        size_t found = line.find("Úrsula ");
         while (found != string::npos) {
-            line.replace(found, 6, "Maria"); 
-            found = line.find("Ursula", found + 1);
+            line.replace(found, 6, "María "); 
+            found = line.find("Úrsula ", found + 1);
         }
 
         output << line << endl;
