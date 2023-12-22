@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/basket.dir/basketEquipo.cc.o  -o basket 

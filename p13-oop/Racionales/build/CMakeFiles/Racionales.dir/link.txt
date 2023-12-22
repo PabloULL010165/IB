@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Racionales.dir/racional.cc.o CMakeFiles/Racionales.dir/racionales.cc.o  -o Racionales 

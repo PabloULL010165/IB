@@ -1,0 +1,3 @@
+/home/usuario/IB/p13-oop/ComputeInt/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/IB/p13-oop/ComputeInt/build/CMakeFiles/edit_cache.dir
+/home/usuario/IB/p13-oop/ComputeInt/build/CMakeFiles/ComputeInt.dir

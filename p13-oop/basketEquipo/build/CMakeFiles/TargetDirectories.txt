@@ -1,0 +1,3 @@
+/home/usuario/IB/p13-oop/basketEquipo/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/IB/p13-oop/basketEquipo/build/CMakeFiles/edit_cache.dir
+/home/usuario/IB/p13-oop/basketEquipo/build/CMakeFiles/basket.dir
